@@ -8,7 +8,7 @@ import re
 import datetime
 
 
-TOKEN = 'MTA5MjMwMTY5NTEyMTM2Mjk4NQ.GJ1t4Y.hat3j66U2GWyVq8eTtFb3aDu_ynwMHND4Q-xcM'
+TOKEN = '__'
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
